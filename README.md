@@ -25,7 +25,7 @@
 - [Formulário de Reclamações](https://forms.google.com/...)
 - [Instagram](https://instagram.com/seuprojeto)
 - [GitHub do Projeto](https://github.com/seuprojeto/bustrack)
-- [Figma UI]()
+- [Figma UI](https://www.figma.com/design/RXjcHyYlL7Dza9IgiXUlIV/Apps-Faculdade-FACENS?node-id=442-24430&t=ejxXapLJSONZFW0x-1)
 
 ## 💡 Equipe
 
