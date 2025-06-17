@@ -2,6 +2,8 @@
 
 **Bus Track** é um projeto universitário com o objetivo de melhorar o transporte urbano, oferecendo uma plataforma moderna para comunicação entre passageiros e responsáveis pelo transporte público.
 
+![BusTrack-Figma](https://github.com/user-attachments/assets/a73251a8-b160-4022-aa9a-81687b3382a1)
+
 ## 📱 Funcionalidades
 
 - Acesso via QR Code para facilitar o uso direto nos pontos de ônibus.
@@ -32,7 +34,7 @@
  (Facens - ADS)
 - Renan Zanollo Amorim - RA 222216
 - Isabela Queiroz Ferreira - RA 236858
-- Guilherme De Alcantara 
+- Guilherme De Alcantara 234853
 
 ---
 
